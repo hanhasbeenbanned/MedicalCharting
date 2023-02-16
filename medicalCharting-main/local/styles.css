@@ -32,7 +32,7 @@ header, .header-content, .header-logo, .img-frame, .patient-glance {
 }
 
 .header-logo img{
-    width: 5em;
+   padding-right: 4em;
 }
 
 .img-frame {
