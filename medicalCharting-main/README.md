@@ -13,10 +13,10 @@ Charting software and documentation for Catalyst medical classes
 ### Year 2:
 
 > [Lucy Leix](https://github.com/LU-SIFE) (Project Lead)<br>
-> Hannah (?)<br>
-> Kyle (?)<br>
-> Regan (?)<br>
-> Ty (?)<br>
+> Hannah (Designer/Front End)<br>
+> Kyle (Front End)<br>
+> Regan (Programmer/Front End)<br>
+> Ty (Lead Programmer)<br>
 
 to setup xamp tables:
 ```
