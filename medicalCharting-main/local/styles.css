@@ -5,6 +5,9 @@ body {
     height: 100%;
     overflow-x: hidden;
 }
+button{
+    cursor: pointer;
+}
 
 /*GLANCE HEADER*/
 header {
@@ -50,6 +53,7 @@ header, .header-content, .header-logo, .img-frame, .patient-glance {
 .patient-glance {
     flex-direction: column;
     justify-content: space-evenly;
+    padding-left: 3em;
 }
 
 .patient-glance-content {
