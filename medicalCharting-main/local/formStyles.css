@@ -17,6 +17,24 @@ body {
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
     border: none;
 }
+
+.submit-back-button{
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 25px;
+    float: right;
+    margin-right: 15px;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background: #183969;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+    border: none;
+}
+
 #vital-submit:hover, #patient-draft-submit:hover, #orders-submit:hover{
     background: #0c1f3b;
 }

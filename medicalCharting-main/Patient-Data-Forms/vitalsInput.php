@@ -20,7 +20,7 @@
 <body>
 <?php
 $profilePath = "../assets/empty-profile.png";
-$headerLogoPath = "../assets/catalyst-logo.png";
+$headerLogoPath = "../assets/catalyst-logo-blue.png";
 include "../local/patientGlanceHeader.php";
 ?>
 
@@ -1357,6 +1357,7 @@ include "../local/patientGlanceHeader.php";
     </div>
 </main>
 
+<button class="submit-back-button">Back</button>
 <button id="vital-submit">Submit</button>
 
 <script src="../local/vitalDataGather.js"></script>
