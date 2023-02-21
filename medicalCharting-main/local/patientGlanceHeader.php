@@ -9,5 +9,5 @@
             <h2 class="patient-glance-content"><span>MR#: </span></h2>
         </div>
     </div>
-    <div class="header-logo"><a href="../Dashboard.php"><img src="<?php echo $headerLogoPath ?>" alt="catalyst logo"></a></div>
+    <div class="header-logo"><a href="../dashboard.php"><img src="<?php echo $headerLogoPath ?>" alt="catalyst logo"></a></div>
 </header>

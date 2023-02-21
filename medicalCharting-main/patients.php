@@ -16,7 +16,7 @@
        <img src="assets/catalyst-logo-blue.png" alt="Catalyst Logo">
        <nav>
            <ul>
-               <li><a href="Dashboard.php">HOME</a></li>
+               <li><a href="dashboard.php">HOME</a></li>
                <li><a href="patients.php">PATIENTS</a></li>
                <div class="logout">
                     <li class="logout"><a href="logout.php">LOGOUT</a></li>
@@ -38,7 +38,7 @@
                 <h4>MR#: 123-456-78</h4>
             </div>
             <div class="flex-container">
-                <a class="glance-button" href="Dashboard.php">View</a>
+                <a class="glance-button" href="dashboard.php">View</a>
             </div>
         </div>
         <div class="sub-category-glance">

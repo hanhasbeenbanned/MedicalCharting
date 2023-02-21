@@ -18,7 +18,7 @@
        <img src="assets/catalyst-logo-blue.png" alt="Catalyst Logo">
        <nav>
            <ul>
-               <li><a href="Dashboard.php">HOME</a></li>
+               <li><a href="dashboard.php">HOME</a></li>
                <li><a href="patients.php">PATIENTS</a></li>
                 <div class="logout">
                     <li class="logout"><a href="logout.php">LOGOUT</a></li>
