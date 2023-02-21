@@ -1,9 +1,9 @@
 <?php
 
-	define('USER', 'root');
-	define('PASSWORD', '');
+	define('USER', 'catalystuser24');
+	define('PASSWORD', 'downloud42');
 	define('HOST', 'localhost');
-	define('DATABASE', 'phplogin');
+	define('DATABASE', 'chart_db');
 
 // Check connection
 if (mysqli_connect_errno()) {
