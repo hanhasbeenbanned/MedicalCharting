@@ -1358,7 +1358,7 @@ include "../local/patientGlanceHeader.php";
 </main>
 
 <button class="submit-back-button">Back</button>
-<button id="vital-submit">Submit</button>
+<a href="../Dashboard.php"><button id="vital-submit">Submit</button></a>
 
 <script src="../local/vitalDataGather.js"></script>
 </body>
